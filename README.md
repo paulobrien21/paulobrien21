@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulobrien21
-- 🌱 Aspiring software developer
+- 🌱 Software developer
 
 <!---
 paulobrien21/paulobrien21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
